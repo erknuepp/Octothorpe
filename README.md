@@ -23,3 +23,6 @@ python manage.py runserver 8080
 
 # Test API endpoints with Postman
 https://bezkoder.com/django-mongodb-crud-rest-framework/#Test_the_CRUD_with_APIs
+
+# this may be important
+npm i -g @vue/cli @vue/cli-service-global (for windows)
