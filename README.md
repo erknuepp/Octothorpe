@@ -1,7 +1,7 @@
 # Octothorpe
 Another name for the pound symbol or hashtag
 
-# Tutorial
+# API Tutorial
 https://bezkoder.com/django-mongodb-crud-rest-framework/
 
 # Things to install for MongoDB API
@@ -41,6 +41,7 @@ npm i -g @vue/cli @vue/cli-service-global (for windows powershell vue commands)
 # To run site locally
 cd octo-app
 npm run serve
+(note: you need to have the API running as well)
 
 # Things to research further
 eslint
