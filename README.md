@@ -24,6 +24,9 @@ python manage.py runserver 8080
 # Test API endpoints with Postman
 https://bezkoder.com/django-mongodb-crud-rest-framework/#Test_the_CRUD_with_APIs
 
+# Vue tutorial
+https://bezkoder.com/vue-js-crud-app/
+
 # Things to install for Vue App
 node.js which gives you npm as well
 
@@ -38,3 +41,14 @@ npm i -g @vue/cli @vue/cli-service-global (for windows powershell vue commands)
 # To run site locally
 cd octo-app
 npm run serve
+
+# Things to research further
+eslint
+babel
+vue, vue-router, vue-cli
+djangorestframework
+axios
+npm
+node.js
+
+
