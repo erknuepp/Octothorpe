@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Octo/node_modules/
+
+node_modules/.bin/
