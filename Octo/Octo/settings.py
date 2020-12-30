@@ -25,6 +25,8 @@ SECRET_KEY = 'fs$q8as7f0to_(8^=suyy*%cm@w!gv@xund!@9+5xzj(_5k873'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+ADMINS = [('Ed', 'edward.knueppel.jr@gmail.com')]
+
 ALLOWED_HOSTS = []
 
 
@@ -92,6 +94,10 @@ DATABASES = {
         'NAME': 'octo_db',
         'HOST': '127.0.0.1',
         'PORT': 27017,
+    },
+    'sqlite': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'octo-sql-db',
     }
 }
 
